@@ -1,0 +1,19 @@
+.btn {
+    width: 200px;
+    height: 40px;
+    font-size: 25px;
+    color: aliceblue;
+    font-weight: 550;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-right: 20px;
+}
+
+.gg {
+    background: rgb(235, 21, 21);
+}
+
+.fb {
+    background: rgb(36, 70, 182);
+}
