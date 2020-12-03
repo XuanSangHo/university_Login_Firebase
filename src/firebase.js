@@ -16,6 +16,8 @@ const db = firebaseApp.firestore();
 const auth = firebase.auth();
 const providerFB = new firebase.auth.FacebookAuthProvider();
 const providerGG = new firebase.auth.GoogleAuthProvider();
+// firebase.auth().sendPasswordResetEmail
+// const forgotPass = auth.sendPasswordResetEmail();
 
 
 export {auth, providerGG, providerFB};

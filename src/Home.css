@@ -1,0 +1,16 @@
+.forgot-email {
+    width: 20vw;
+    height: auto;
+    font-size: 25px;
+    padding: 5px 5px 5px 3px;
+}
+
+.btn-sub {
+    width: 100px;
+    height: 50px;
+    margin-left: 10px;
+    border-radius: 10px;
+    background: rgb(6, 25, 78);
+    color: white;
+    font-size: 25px;
+}

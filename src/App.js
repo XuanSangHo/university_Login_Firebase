@@ -9,13 +9,7 @@ function App() {
   return (
     <div className="App">
       <h1>Login Google - FaceBook</h1>
-      { !user ? (
-        <Google />
-      ) : (
-        <>
-          <Home />
-        </>
-      )}
+      <Home />
     </div>
   );
 }
